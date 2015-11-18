@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadata created="2015-11-16T09:48:27.867Z" xmlns="http://musicbrainz.org/ns/mmd-2.0#" xmlns:ext="http://musicbrainz.org/ns/ext#-2.0">
+  <release-list count="1" offset="0">
+    <release id="4cf8c4b7-2471-46cd-8865-f2a744f26e8d" ext:score="100">
+      <title>Dharohar Project, Laura Marling and Mumford &amp; Sons</title>
+      <status>Official</status>
+      <text-representation>
+        <language>mul</language>
+        <script>Latn</script>
+      </text-representation>
+      <artist-credit>
+        <name-credit joinphrase=", ">
+          <artist id="a015074b-e109-412d-9f7b-170b80a0ebbd">
+            <name>Dharohar Project</name>
+            <sort-name>Dharohar Project</sort-name>
+          </artist>
+        </name-credit>
+        <name-credit joinphrase=" and ">
+          <artist id="cd9713d6-6e5f-4143-9412-4d12b7bd47f2">
+            <name>Laura Marling</name>
+            <sort-name>Marling, Laura</sort-name>
+            <alias-list>
+              <alias sort-name="Marling, Laura Beatrice" type="Legal name">Laura Beatrice Marling</alias>
+            </alias-list>
+          </artist>
+        </name-credit>
+        <name-credit>
+          <artist id="c44e9c22-ef82-4a77-9bcd-af6c958446d6">
+            <name>Mumford &amp; Sons</name>
+            <sort-name>Mumford &amp; Sons</sort-name>
+          </artist>
+        </name-credit>
+      </artist-credit>
+      <release-group id="fce2ada1-f3bb-4edc-aa13-e1e8ab0198bb" type="EP">
+        <primary-type>EP</primary-type>
+      </release-group>
+      <date>2011-04-16</date>
+      <country>US</country>
+      <release-event-list>
+        <release-event>
+          <date>2011-04-16</date>
+          <area id="489ce91b-6658-3307-9877-795b68554c98">
+            <name>United States</name>
+            <sort-name>United States</sort-name>
+            <iso-3166-1-code-list>
+              <iso-3166-1-code>US</iso-3166-1-code>
+            </iso-3166-1-code-list>
+          </area>
+        </release-event>
+      </release-event-list>
+      <barcode>892038002329</barcode>
+      <asin>B005GKXM54</asin>
+      <label-info-list>
+        <label-info>
+          <catalog-number>GLS-0114-10</catalog-number>
+          <label id="58c69b6f-5c5b-4341-8be6-a43c3e69b408">
+            <name>Glassnote Records</name>
+          </label>
+        </label-info>
+      </label-info-list>
+      <medium-list count="1">
+        <track-count>4</track-count>
+        <medium>
+          <format>10" Vinyl</format>
+          <disc-list count="0"/>
+          <track-list count="4"/>
+        </medium>
+      </medium-list>
+    </release>
+  </release-list>
+</metadata>
